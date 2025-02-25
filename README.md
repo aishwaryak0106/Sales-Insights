@@ -12,23 +12,25 @@ This project is based on a **fictional dataset** to demonstrate real-world sales
 - 📊 **Additional Insights**: Seasonal patterns, regional sales trends, and more.  
 
 ## 📊 Dashboard Preview  
-![Dashboard Preview](Project_Sales Insights.png)  
-[View on Tableau Public](#)  
+<img width="801" alt="image" src="https://github.com/user-attachments/assets/fdafafc2-5826-40bb-bc06-8acb336bbd61" />
+<img width="837" alt="image" src="https://github.com/user-attachments/assets/e0b76daa-0c9b-4a88-af9a-8f198caf9fe1" />
+<img width="836" alt="image" src="https://github.com/user-attachments/assets/0352c89c-5646-4fab-a510-668a5ee28162" />
+<img width="836" alt="image" src="https://github.com/user-attachments/assets/3382551f-5c7c-4d27-a6c2-94ec207c7b9e" />
+<img width="835" alt="image" src="https://github.com/user-attachments/assets/8a6e65e4-1b07-4ee9-8610-f210160e5b32" />
+<img width="837" alt="image" src="https://github.com/user-attachments/assets/a29112ba-0314-4941-95cd-b51472552236" />
+<img width="838" alt="image" src="https://github.com/user-attachments/assets/63197ac4-794f-4337-926f-a763668a718b" />
+
 
 ## 🛠️ Technologies Used  
 - **Tableau** – For data visualization  
-- **Excel / CSV Dataset** – Data source  
+- **MySQL** – Data source  
 - **GitHub** – Version control & project hosting  
 
 ## 📂 Files & Usage    
-- `db_dump` – **Raw sales data** (importable into Tableau).  
-- `/images/` – Screenshots of key **dashboard insights**.  
+- `db_dump` – **Raw sales data** (importable into Tableau).
 
 ### 💡 How to Use  
-1. **Download** the repository files.  
-2. Open `Sales_Insight.twbx` in **Tableau Desktop**.  
-3. Explore the **dashboard** to analyze sales insights!  
-  
-
+1. **Download** the repository files.   
+2. Explore the **dashboard** to analyze sales insights!  
 ---
 Feel free to **fork**, **improve**, or **connect** for discussions! 
